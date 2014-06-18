@@ -1,0 +1,5 @@
+Sets the service's domain to their dedicated IP (mainly for VPSs) for WHMCS
+Version 1.0 by KuJoe (JMD.cc)
+	
+//Installation:
+1) Upload the ip_to_domain.php file into your WHMCS's hooks directory (/includes/hooks/).
